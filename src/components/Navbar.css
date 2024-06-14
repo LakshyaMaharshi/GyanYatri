@@ -1,0 +1,25 @@
+.nav-div{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-div button{
+    background-color: rgb(53, 52, 52);
+    color: white;
+    border: none;
+    margin: 15px;
+    cursor:pointer;
+}
+
+.logo{
+    margin: 1rem;
+}
+
+.log-sign-span button{
+    border: solid wheat 1px;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
