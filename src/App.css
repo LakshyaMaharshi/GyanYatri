@@ -1,0 +1,13 @@
+.app-super-div{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.app-main-div{
+    width: 70vw;
+    height: auto;
+}

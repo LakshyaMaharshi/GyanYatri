@@ -6,11 +6,11 @@
     align-items: center;
 }
 
-.nav-div button{
-    background-color: rgb(53, 52, 52);
-    color: white;
+.nav-div .NavLink{
+    background-color: rgb(15 23 42);
+    color: white; 
     border: none;
-    margin: 15px;
+    margin: 10px;
     cursor:pointer;
 }
 
@@ -18,8 +18,9 @@
     margin: 1rem;
 }
 
-.log-sign-span button{
+.log-sign-span .NavLink{
     border: solid wheat 1px;
     padding: 0.5rem;
     border-radius: 0.5rem;
+    font-size:medium;
 }
